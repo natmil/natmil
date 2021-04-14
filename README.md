@@ -10,7 +10,7 @@ I have always been curious about how things worked and were made. That's why I l
 
 * I do really enjoy coding with Python 🐍, specially with Django and the REST Framework.
 * For the front I like to use JavaScript and React.
-* I also have knowledge of Docker, Linux, AWS, SQL and NoSQL databases, Redux, HTML and CSS.
+* I also have knowledge of Docker, Linux, AWS, SQL and NoSQL databases, Redux, HTML, CSS and styled-components.
 
 
 ## 💘 Reach me: 
